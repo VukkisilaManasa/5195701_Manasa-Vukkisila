@@ -6,6 +6,8 @@ linux commands
 Simple learn
 <img width="1404" height="988" alt="Screenshot 2025-08-04 131236" src="https://github.com/user-attachments/assets/ff547300-3dbf-4007-add2-9d20f2293b0d" />
 Introduction to C - Sololearn
-[introduction to c.pdf](https://github.com/user-attachments/files/21609406/introduction.to.c.pdf)
+<img width="1336" height="939" alt="Screenshot 2025-08-06 072904" src="https://github.com/user-attachments/assets/f866c21e-c412-4445-92ac-f5f608c7c9fa" />
+
 C Intermediate - Sololearn
-[c intermediate certificate.pdf](https://github.com/user-attachments/files/21609434/c.intermediate.certificate.pdf)
+<img width="1358" height="956" alt="Screenshot 2025-08-06 072834" src="https://github.com/user-attachments/assets/501650e5-1417-4371-8bf7-4334178454b8" />
+
